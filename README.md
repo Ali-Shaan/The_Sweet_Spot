@@ -1,43 +1,57 @@
-# Food Delivery
+# 🍰 Sugar Daddy Café
 
-<div align="center">
-  <img width="200px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
-</div>
-<br>
+A full-stack e-commerce web application for sweet lovers, enabling users to browse, order, and enjoy a wide variety of sweets online. Built using the **MERN stack**, Sugar Daddy Café provides a seamless, secure, and delightful user experience.
 
-> Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
-> APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
-> Followed MVC architecture and microservices for serever side
+## 📌 Project Overview
 
-## ⚙️ Detailed Functionality
+**Sugar Daddy Café** is an online platform designed to revolutionize how people purchase sweets. From exploring delicious options to securely placing orders, every aspect is built with the user in mind.
 
-- Users have to authenticate themselves by Email
-- User can add carts items to cart
-- Users can update quantity delete the item
-- User can check the summry of ordre like items price ,delivery price and total
-- User can select COD or online (Razorpay) payment for order
-- After Placing order user will redirect to ordere details page and recives an email of order
-- User can view there old orders and profile
-- User can add , edit or delete address while checkout
+---
 
-## 🚀 Tech and Tools Used
+## 🎯 Objective
 
-- React.JS ,Redux ,NodeJS ,ExpressJs,MongoDB
-- VS code,Heruko
-- React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
+To build a responsive and user-friendly online sweet shop using modern web technologies that:
+- Supports full product and order lifecycle
+- Ensures secure authentication
+- Offers smooth user interaction and cart management
+- Integrates real-world payment gateways (COD and Razorpay)
 
-## 📸 Screenshots
+---
 
-## Home Page
+## 🧱 Tech Stack
 
-<img src="./frontend/src/assests/mern-food-delivery-app.herokuapp.com_.png" width='800' height='auto'>
-<br>
+| Layer     | Technology           |
+|-----------|----------------------|
+| Frontend  | React.js, Redux      |
+| Backend   | Node.js, Express.js  |
+| Database  | MongoDB, Mongoose    |
+| Auth      | JWT (JSON Web Tokens)|
+| Payment   | Razorpay, COD        |
 
-## Pizza Builder Page
+---
 
-<img src="./custom-pizza.png" width='800' height='auto'>
-<br>
+## 💡 Key Features
 
-### LINK :
+- 🔐 **User Authentication**: Secure sign-up/login using JWT.
+- 🛍️ **Product Listings**: Sweet items displayed by categories.
+- 🛒 **Shopping Cart**: Add/remove items, manage cart with order summary.
+- 👤 **User Profile**: Manage profile, address, and view order history.
+- 💳 **Payment Integration**: Supports Razorpay & Cash on Delivery.
+- 📦 **Order Management**: Place orders, track status, and view history.
+- ❤️ **Wishlist**: Save favorite sweets for later.
 
-https://rio-ci4k.onrender.com/
+---
+
+## 🧭 Application Architecture
+
+- **Frontend**: Built with React.js using Redux for efficient state management.
+- **Backend**: RESTful API created with Express.js and Node.js.
+- **Database**: MongoDB with Mongoose for schema validation.
+- **Authentication**: Handled using JWT for secure session management.
+- **Real-Time**: WebSockets used for real-time updates and notifications.
+
+---
+
+## ✅Conclusion
+
+Sugar Daddy Café demonstrates how modern web technologies can be used to create a secure, scalable, and delightful online shopping experience. From front to back, the application reflects strong full-stack development practices with real-world integrations.

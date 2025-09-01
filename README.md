@@ -1,10 +1,10 @@
-# 🍰 Sugar Daddy Café
+# 🍰 The Sweet Spot
 
-A full-stack e-commerce web application for sweet lovers, enabling users to browse, order, and enjoy a wide variety of sweets online. Built using the **MERN stack**, Sugar Daddy Café provides a seamless, secure, and delightful user experience.
+A full-stack e-commerce web application for sweet lovers, enabling users to browse, order, and enjoy a wide variety of sweets online. Built using the **MERN stack**, The Sweet Spot provides a seamless, secure, and delightful user experience.
 
 ## 📌 Project Overview
 
-**Sugar Daddy Café** is an online platform designed to revolutionize how people purchase sweets. From exploring delicious options to securely placing orders, every aspect is built with the user in mind.
+**The Sweet Spot** is an online platform designed to revolutionize how people purchase sweets. From exploring delicious options to securely placing orders, every aspect is built with the user in mind.
 
 ---
 
@@ -54,4 +54,4 @@ To build a responsive and user-friendly online sweet shop using modern web techn
 
 ## ✅Conclusion
 
-Sugar Daddy Café demonstrates how modern web technologies can be used to create a secure, scalable, and delightful online shopping experience. From front to back, the application reflects strong full-stack development practices with real-world integrations.
+The Sweet Spot demonstrates how modern web technologies can be used to create a secure, scalable, and delightful online shopping experience. From front to back, the application reflects strong full-stack development practices with real-world integrations.
